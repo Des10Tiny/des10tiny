@@ -64,6 +64,8 @@
 
 Here you will find my Python projects:
 
+- Coming soon)
+
 
 ## Let's Connect
 
