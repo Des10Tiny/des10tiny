@@ -64,9 +64,9 @@
 
 ## Projects
 
-Here you will find my Python projects:
+Here you will find my projects:
 
-- Coming soon)
+- <a href="https://github.com/Des10Tiny/ImageProcessor">🪡 A high‑performance, multi‑filter image converter written in C++ for Unix systems. </a>
 
 
 ## Let's Connect
