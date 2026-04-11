@@ -1,81 +1,56 @@
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&duration=3000&pause=100&color=6EF7DA&center=true&random=false&width=435&height=70&lines=Hi%2C++I'm+Des10Tiny;Python+developer)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=45&duration=3000&pause=100&color=6EF7DA&center=true&random=false&width=600&height=70&lines=Hi%2C++I'm+Des10Tiny;Systems+%26+C%2B%2B+Developer;Algorithms+%26+Networks" alt="Typing SVG" />
+  </a>
 </div>
- 
-## Experience
 
-- I am an ambitious Python developer.
-- I also create web applications on Django.
-- I use Telebot to create bots in Telegram actively.
-- I also know the how to create parser scripts.
+## 👨‍💻 About Me
 
-  
-## Tech Stack
-<div align="center">
+- 🎓 I am focused on **Systems Programming**, **Algorithms**, and **Network Technologies**.
+- 💻 My primary stack is **C++**, with a strong interest in low-level architecture, Linux, and memory management.
+- 🧠 Actively grinding algorithms on **LeetCode** and following the **NeetCode** roadmap.
+- 🛠️ Comfortable working in terminal-based environments, configuring build systems, and containerizing applications.
 
-   ![Telebot](https://img.shields.io/badge/TELEBOT-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-   ![Cplusplus](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
-</div>
- 
-
-## Stats
-
-<div align='center'>
-
-  [![codewars](https://www.codewars.com/users/Des10Tiny/badges/large)](https://www.codewars.com/users/Des10Tiny)
-
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Des10Tiny&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-<div align='center'>
+## 📊 Stats & Activity
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Des10Tiny&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  
+<div align="center">
+  <a href="https://leetcode.com/10T/">
+    <img src="https://leetcard.jacoblin.cool/10T?theme=dark&font=Syne&ext=heatmap" height="180" alt="LeetCode Stats" />
+  </a>
+  <a href="https://github.com/Des10Tiny">
+    <img src="https://github-readme-stats.vercel.app/api?username=Des10Tiny&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  </a>
 </div>
 
-
-<div align='center'>
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Des10Tiny&theme=dark)
-  
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Des10Tiny/Des10Tiny/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Des10Tiny/Des10Tiny/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Des10Tiny/Des10Tiny/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
-<div align='center'>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Des10Tiny&theme=onestar">
+## 🚀 Projects
 
-</div>
+- 🪡 **[ImageProcessor](https://github.com/Des10Tiny/ImageProcessor)** — A high‑performance, multi‑filter image converter written in C++ for Unix and Windows systems. Includes automated CI/CD pipelines for building and packaging.
 
+## 📫 Let's Connect
 
-## Projects
-
-Here you will find my projects:
-
-- <a href="https://github.com/Des10Tiny/ImageProcessor">🪡 A high‑performance, multi‑filter image converter written in C++ for Unix systems. </a>
-
-
-## Let's Connect
-
-Feel free to write to me:
-
-- <a href="https://t.me/Des10Tiny">🖇️ Telegram</a>
-- <a href="mailto:melanholiya1@icloud.com">📧 Email</a>
-
-Do not hesitate to contact us if you have any questions or suggestions!
-
-> Your suggestions and comments are always welcome!
+- 🖇️ [Telegram](https://t.me/Des10Tiny)
+- 📧 [Email](mailto:melanholiya1@icloud.com)
