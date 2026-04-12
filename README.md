@@ -31,10 +31,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/10T/">
-    <img src="https://leetcard.jacoblin.cool/10T?theme=dark&font=Syne&ext=heatmap" height="180" alt="LeetCode Stats" />
-  </a>
-  <a href="https://github.com/Des10Tiny">
-    <img src="https://github-readme-stats.vercel.app/api?username=Des10Tiny&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+    <img src="https://leetcard.jacoblin.cool/10T?theme=dark&font=Syne&ext=heatmap" height="333" alt="LeetCode Stats" />
   </a>
 </div>
 
