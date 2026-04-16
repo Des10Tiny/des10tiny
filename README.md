@@ -45,7 +45,9 @@
 
 ## 🚀 Projects
 
-- 🪡 **[ImageProcessor](https://github.com/Des10Tiny/ImageProcessor)** — A high‑performance, multi‑filter image converter written in C++ for Unix and Windows systems. Includes automated CI/CD pipelines for building and packaging.
+- 🪡 **[ImageProcessor](https://github.com/Des10Tiny/ImageProcessor)** – A high‑performance, multi‑filter image converter written in C++ for Unix and Windows systems. Includes automated CI/CD pipelines for building and packaging.
+
+- ⚡ **[NetGrep](https://github.com/Des10Tiny/NetGrep.git)** – A concurrent C++20 client-server pattern matcher. Built for high-load systems using POSIX sockets, multi-processing (fork), and lock-free shared memory for real-time statistics.
 
 ## 📫 Let's Connect
 
