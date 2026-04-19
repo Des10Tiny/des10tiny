@@ -49,6 +49,8 @@
 
 - ⚡ **[NetGrep](https://github.com/Des10Tiny/NetGrep.git)** – A concurrent C++20 client-server pattern matcher. Built for high-load systems using POSIX sockets, multi-processing (fork), and lock-free shared memory for real-time statistics.
 
+- 🚀 **[yash](https://github.com/Des10Tiny/yash)** – A Unix-like shell implementation in C++. Focused on modular design, custom state-machine tokenization, and POSIX compliance. Currently under active development.
+
 ## 📫 Let's Connect
 
 - 🖇️ [Telegram](https://t.me/Des10Tiny)
